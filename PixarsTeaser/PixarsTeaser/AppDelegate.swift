@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  PixarsTeaser
 //
-//  Created by gustavo.freitas2 on 3/16/16.
+//  Created by Gustavo F Oliveira on 3/16/16.
 //  Copyright © 2016 HACKATRUCK. All rights reserved.
 //
 
